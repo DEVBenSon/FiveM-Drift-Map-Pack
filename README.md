@@ -23,4 +23,4 @@ Total Maps in pack = 0
 
 ## Quick Links
 
-Tag: BenSon#0001
+Discord Tag: BenSon#0001
