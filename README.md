@@ -3,7 +3,7 @@
 [APIversionImg]: https://img.shields.io/badge/CustomPack%20Staus-InTheWorks-orange
 [licenseImg]: https://img.shields.io/badge/Version-0.1-blue
 
-[logo]: https://i.imgur.com/4WcdDro.jpg
+[logo]: https://i.imgur.com/cZ3pnI5.jpg
 <!-- The stuff above isn't visible in the readme -->
 
 ![logo]
