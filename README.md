@@ -23,4 +23,6 @@ Total Maps in pack = 0
 
 ## Quick Links
 
+_Feel free to contact me on discord if you need any help_
+
 Discord Tag: BenSon#0001
