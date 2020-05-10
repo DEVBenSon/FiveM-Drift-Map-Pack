@@ -1,0 +1,77 @@
+{
+  "$schema": "schema.json",
+  "archetypes": [
+    {
+      "aabbMin": [
+        -399.835,
+        -537.688,
+        -107.692
+      ],
+      "aabbMax": [
+        400.475,
+        539.274,
+        107.692
+      ],
+      "centroid": [
+        0.319824,
+        0.792725,
+        7.62939E-06
+      ],
+      "radius": 679.473,
+      "archetypeName": "akagipass1",
+      "txdName": "akagipass1"
+    },
+	{
+      "aabbMin": [
+        -356.35,
+        -173.978,
+        -55.4917
+      ],
+      "aabbMax": [
+        354.846,
+        173.993,
+        55.4917
+      ],
+      "centroid": [
+        -0.751709,
+        0.0078125,
+        1.52588E-05
+      ],
+      "radius": 399.75,
+      "archetypeName": "akagipass2",
+      "txdName": "akagipass2"
+    }
+  ],
+  "entities": [
+    {
+      "position": [
+        2517.895,
+        1056.313,
+        101.1049
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "guid": "df4c74c6-6040-44fc-a92f-6541e487314b",
+      "archetypeName": "hash:3483431580"
+    },
+	{
+      "position": [
+        1939.416,
+        1439.222,
+        193.9869
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "guid": "60219197-8f6c-4f6f-9352-c81ca72966f1",
+      "archetypeName": "hash:3302743314"
+    }
+  ]
+}
